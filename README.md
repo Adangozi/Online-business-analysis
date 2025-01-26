@@ -8,3 +8,14 @@ references to the company in the review text and body have been replaced with â€
 ## Dataset used
 
 -<a href="https://github.com/Adangozi/Online-business-analysis/blob/main/Womens%20Clothing%20E-Commerce%20Review.xlsx">Dataset</a>
+
+## visualization
+
+https://github.com/Adangozi/Online-business-analysis/blob/main/screenshoot%20women%20e-commerce.PNG
+
+
+
+## Recommendation from Data
+
+Promo,discount or incentives should be introduced to boast positive recommendations from the other age groups. Also customers should be reminded to give their recommendations and concerns about their products in other to aid business growth and sales.
+
