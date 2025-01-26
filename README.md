@@ -14,7 +14,8 @@ references to the company in the review text and body have been replaced with â€
 https://github.com/Adangozi/Online-business-analysis/blob/main/screenshoot%20women%20e-commerce.PNG
 
 ## VISUALIATION
-![Uploading screenshoot women e-commerce.PNGâ€¦]()
+![screenshoot women e-commerce](https://github.com/user-attachments/assets/40a69f84-f1eb-46b1-b0e4-fdc3726f68b5)
+
 
 
 
