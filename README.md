@@ -9,9 +9,13 @@ references to the company in the review text and body have been replaced with â€
 
 -<a href="https://github.com/Adangozi/Online-business-analysis/blob/main/Womens%20Clothing%20E-Commerce%20Review.xlsx">Dataset</a>
 
-## visualization
+## DASHB0ARD INTERACTION
 
 https://github.com/Adangozi/Online-business-analysis/blob/main/screenshoot%20women%20e-commerce.PNG
+
+## VISUALIATION
+![Uploading screenshoot women e-commerce.PNGâ€¦]()
+
 
 
 
